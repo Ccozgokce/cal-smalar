@@ -3,7 +3,7 @@
 
        "id":0,
        "isim":"BİM",
-       "marka_logo":"BİM",
+       "marka_logo":"bim",
        "aktuel_resim":"https://screenshotscdn.firefoxusercontent.com/images/470ebe31-e9fe-4383-b482-6b22447815e7.png",
        "tarih":"15.01.2019"
 
@@ -14,7 +14,7 @@
   
        "id":1,
        "isim":"A-101",
-       "marka_logo":"A-101",
+       "marka_logo":"a101",
        "aktuel_resim":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Photographer_Barnstar.png",
        "tarih":"15.01.2019"
 
@@ -23,8 +23,8 @@
        
         
        "id":2,
-       "isim":"SOK",
-       "marka_logo":"SOK",
+       "isim":"ŞOK",
+       "marka_logo":"sok",
        "aktuel_resim":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Photographer_Barnstar.png",
        "tarih":"15.01.2019"
       }
